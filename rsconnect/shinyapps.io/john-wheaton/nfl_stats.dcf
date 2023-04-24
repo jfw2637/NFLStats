@@ -1,0 +1,11 @@
+name: nfl_stats
+title:
+username:
+account: john-wheaton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8931040
+bundleId: 7125901
+url: https://john-wheaton.shinyapps.io/nfl_stats/
+when: 1682302713.01166
+lastSyncTime: 1682302713.01167
